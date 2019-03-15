@@ -1,0 +1,7 @@
+.DS_Store
+*.log
+screenshot*
+tmp/
+reports/
+*.html
+*.lock
