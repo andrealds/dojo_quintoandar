@@ -3,7 +3,7 @@ require 'cucumber'
 require 'selenium-webdriver'
 require 'capybara'
 require 'capybara/cucumber'
-require 'pry-byebug'
+require 'pry'
 require 'site_prism'
 require 'chromedriver-helper'
 

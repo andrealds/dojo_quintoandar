@@ -9,10 +9,10 @@ Funcionalidade: Pesquisar Imovel no Site Quinto Andar
     Dado que eu acesso o site quinto andar
     Quando faço uma pesquisa aplicando os filtros
     Então valido que os filtros foram aplicados:
-    |filtro|
-    |1 vagas|
-    |Mobiliado|
+    |  filtro   |
+    |  1 vagas  |
+    | Mobiliado |
     |Metrô próx.|
-    |2 dorms|
+    |  2 dorms  |
     |Apartamento|
-    |Não aceita|
+    |Não aceita |
