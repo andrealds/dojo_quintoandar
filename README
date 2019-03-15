@@ -12,8 +12,6 @@ baixe em: ​http://rubyinstaller.org/downloads/​. Executar o arquivo baixado 
 
 4 - Instalando ChromeDriver Baixe em: ​https://chromedriver.storage.googleapis.com/index.html?path=2.33/ Descompacte o arquivo dentro da pasta C:\Ruby23-x64\bin
 
-5 - Instalando Geckodriver Baixe em: https://github.com/mozilla/geckodriver/releases/download/v0.19.1/geckodriver-v0.19.1-win64.zip Descompacte o arquivo dentro da pasta C:\Ruby23-x64\bin
-
 Rodando a Automação:
 
 1 - Faça o clone do projeto na URL: git clone git@github.com:andrealds/dojo_quintoandar.git
